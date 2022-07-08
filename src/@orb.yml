@@ -1,7 +1,7 @@
 version: 2.1
 
 description: >
-  This orb helps running database migration using Liquibase as the database change schema migration tool/cli 
+  This orb helps running database migration using Liquibase as the database change schema migration tool/cli
 
 display:
   home_url: "https://docs.liquibase.com"
